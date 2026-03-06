@@ -44,7 +44,7 @@
         <mxCell id="4ZCc0tTMnUnFuD-E0uFy-10" value="RDB持久化流程" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=24;" vertex="1" parent="1">
           <mxGeometry x="299" y="720" width="230" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="4ZCc0tTMnUnFuD-E0uFy-14" value="临时RDB文件" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="4ZCc0tTMnUnFuD-E0uFy-14" value="RDB文件" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="670" y="610" width="60" height="60" as="geometry" />
         </mxCell>
       </root>
