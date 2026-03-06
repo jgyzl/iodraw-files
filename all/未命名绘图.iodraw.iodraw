@@ -58,6 +58,11 @@
             <mxPoint x="670" y="170" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="4ZCc0tTMnUnFuD-E0uFy-26" value="2.主进程继续处理客户端请求" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="4ZCc0tTMnUnFuD-E0uFy-24">
+          <mxGeometry x="0.0316" y="-3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
