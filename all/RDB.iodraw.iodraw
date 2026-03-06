@@ -25,7 +25,8 @@
               <mxPoint x="740" y="350" />
               <mxPoint x="740" y="520" />
               <mxPoint x="550" y="520" />
-              <mxPoint x="550" y="430" />
+              <mxPoint x="550" y="450" />
+              <mxPoint x="570" y="450" />
             </Array>
           </mxGeometry>
         </mxCell>
