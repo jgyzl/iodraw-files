@@ -38,6 +38,11 @@
         <mxCell id="4ZCc0tTMnUnFuD-E0uFy-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="4ZCc0tTMnUnFuD-E0uFy-8" target="4ZCc0tTMnUnFuD-E0uFy-14">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="4ZCc0tTMnUnFuD-E0uFy-16" value="3.完成临时文件的写入，&lt;div&gt;替换旧RDB文件&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="4ZCc0tTMnUnFuD-E0uFy-15">
+          <mxGeometry x="-0.1404" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="4ZCc0tTMnUnFuD-E0uFy-8" value="临时RDB文件" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="420" y="610" width="60" height="60" as="geometry" />
         </mxCell>
