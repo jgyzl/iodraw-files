@@ -39,7 +39,7 @@
         <mxCell id="6EKHYGwLrf00NctkucPH-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6EKHYGwLrf00NctkucPH-7" target="6EKHYGwLrf00NctkucPH-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="6EKHYGwLrf00NctkucPH-7" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="6EKHYGwLrf00NctkucPH-7" value="AOF缓冲区" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="354" y="400" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
