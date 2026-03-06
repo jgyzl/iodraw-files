@@ -52,15 +52,14 @@
         <mxCell id="4ZCc0tTMnUnFuD-E0uFy-14" value="RDB文件" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="670" y="610" width="60" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="4ZCc0tTMnUnFuD-E0uFy-21" value="" style="curved=1;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="680" y="180" as="sourcePoint" />
-            <mxPoint x="690" y="230" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="690" y="280" />
-              <mxPoint x="640" y="230" />
-            </Array>
+        <mxCell id="4ZCc0tTMnUnFuD-E0uFy-24" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="570" y="170" as="sourcePoint" />
+            <mxPoint x="670" y="170" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="4ZCc0tTMnUnFuD-E0uFy-25" value="Label" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="4ZCc0tTMnUnFuD-E0uFy-24">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
