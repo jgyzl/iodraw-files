@@ -18,8 +18,9 @@
         <mxCell id="6EKHYGwLrf00NctkucPH-2" value="AOF日志文件" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="570" y="400" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="6EKHYGwLrf00NctkucPH-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="6EKHYGwLrf00NctkucPH-2" target="6EKHYGwLrf00NctkucPH-2">
+        <mxCell id="6EKHYGwLrf00NctkucPH-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6EKHYGwLrf00NctkucPH-2">
           <mxGeometry relative="1" as="geometry">
+            <mxPoint x="570" y="450" as="targetPoint" />
             <Array as="points">
               <mxPoint x="630" y="350" />
               <mxPoint x="740" y="350" />
@@ -34,6 +35,12 @@
           <mxGeometry x="-0.6709" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="6EKHYGwLrf00NctkucPH-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6EKHYGwLrf00NctkucPH-7" target="6EKHYGwLrf00NctkucPH-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6EKHYGwLrf00NctkucPH-7" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="400" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
