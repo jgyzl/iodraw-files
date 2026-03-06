@@ -74,8 +74,8 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="4ZCc0tTMnUnFuD-E0uFy-30" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;" vertex="1" parent="1">
-          <mxGeometry x="400" y="390" width="50" height="100" as="geometry" />
+        <mxCell id="4ZCc0tTMnUnFuD-E0uFy-31" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="250" width="50" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
