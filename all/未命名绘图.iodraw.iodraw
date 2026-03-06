@@ -4,15 +4,15 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="4ZCc0tTMnUnFuD-E0uFy-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4ZCc0tTMnUnFuD-E0uFy-1" target="4ZCc0tTMnUnFuD-E0uFy-2">
+        <mxCell id="4ZCc0tTMnUnFuD-E0uFy-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="4ZCc0tTMnUnFuD-E0uFy-1" target="4ZCc0tTMnUnFuD-E0uFy-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="4ZCc0tTMnUnFuD-E0uFy-4" value="1.fork子进程备份，&lt;div&gt;不会阻塞主进程&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="4ZCc0tTMnUnFuD-E0uFy-3">
+        <mxCell id="4ZCc0tTMnUnFuD-E0uFy-4" value="1.fork子进程备份，&lt;div&gt;不会阻塞主进程&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="4ZCc0tTMnUnFuD-E0uFy-3" vertex="1" connectable="0">
           <mxGeometry relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="4ZCc0tTMnUnFuD-E0uFy-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4ZCc0tTMnUnFuD-E0uFy-1" target="4ZCc0tTMnUnFuD-E0uFy-5">
+        <mxCell id="4ZCc0tTMnUnFuD-E0uFy-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="4ZCc0tTMnUnFuD-E0uFy-1" target="4ZCc0tTMnUnFuD-E0uFy-5" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="290" y="265" />
@@ -20,7 +20,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="4ZCc0tTMnUnFuD-E0uFy-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="4ZCc0tTMnUnFuD-E0uFy-1" target="4ZCc0tTMnUnFuD-E0uFy-6">
+        <mxCell id="4ZCc0tTMnUnFuD-E0uFy-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="4ZCc0tTMnUnFuD-E0uFy-1" target="4ZCc0tTMnUnFuD-E0uFy-6" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="340" y="250" />
@@ -28,61 +28,61 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="4ZCc0tTMnUnFuD-E0uFy-1" value="主进程" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="4ZCc0tTMnUnFuD-E0uFy-1" value="主进程" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="390" y="230" width="120" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="4ZCc0tTMnUnFuD-E0uFy-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="4ZCc0tTMnUnFuD-E0uFy-2" target="4ZCc0tTMnUnFuD-E0uFy-5">
+        <mxCell id="4ZCc0tTMnUnFuD-E0uFy-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="4ZCc0tTMnUnFuD-E0uFy-2" target="4ZCc0tTMnUnFuD-E0uFy-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="4ZCc0tTMnUnFuD-E0uFy-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="4ZCc0tTMnUnFuD-E0uFy-2" target="4ZCc0tTMnUnFuD-E0uFy-8">
+        <mxCell id="4ZCc0tTMnUnFuD-E0uFy-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="4ZCc0tTMnUnFuD-E0uFy-2" target="4ZCc0tTMnUnFuD-E0uFy-8" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="4ZCc0tTMnUnFuD-E0uFy-13" value="2.子进程将共享内存数据写道临时RDB文件中" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="4ZCc0tTMnUnFuD-E0uFy-9">
+        <mxCell id="4ZCc0tTMnUnFuD-E0uFy-13" value="2.子进程将共享内存数据写道临时RDB文件中" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="4ZCc0tTMnUnFuD-E0uFy-9" vertex="1" connectable="0">
           <mxGeometry x="-0.0143" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="4ZCc0tTMnUnFuD-E0uFy-2" value="子进程" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="4ZCc0tTMnUnFuD-E0uFy-2" value="子进程" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="390" y="410" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="4ZCc0tTMnUnFuD-E0uFy-5" value="共享&lt;div&gt;内存&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="4ZCc0tTMnUnFuD-E0uFy-5" value="共享&lt;div&gt;内存&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="140" y="390" width="50" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="4ZCc0tTMnUnFuD-E0uFy-6" value="内存副本" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="4ZCc0tTMnUnFuD-E0uFy-6" value="内存副本" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="140" y="200" width="50" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="4ZCc0tTMnUnFuD-E0uFy-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="4ZCc0tTMnUnFuD-E0uFy-8" target="4ZCc0tTMnUnFuD-E0uFy-14">
+        <mxCell id="4ZCc0tTMnUnFuD-E0uFy-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="4ZCc0tTMnUnFuD-E0uFy-8" target="4ZCc0tTMnUnFuD-E0uFy-14" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="4ZCc0tTMnUnFuD-E0uFy-16" value="3.完成临时文件的写入，&lt;div&gt;替换旧RDB文件&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="4ZCc0tTMnUnFuD-E0uFy-15">
+        <mxCell id="4ZCc0tTMnUnFuD-E0uFy-16" value="3.完成临时文件的写入，&lt;div&gt;替换旧RDB文件&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="4ZCc0tTMnUnFuD-E0uFy-15" vertex="1" connectable="0">
           <mxGeometry x="-0.1404" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="4ZCc0tTMnUnFuD-E0uFy-8" value="临时RDB文件" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="4ZCc0tTMnUnFuD-E0uFy-8" value="临时RDB文件" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="420" y="610" width="60" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="4ZCc0tTMnUnFuD-E0uFy-10" value="RDB持久化流程" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=24;" vertex="1" parent="1">
+        <mxCell id="4ZCc0tTMnUnFuD-E0uFy-10" value="RDB持久化流程" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=24;" parent="1" vertex="1">
           <mxGeometry x="299" y="720" width="230" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="4ZCc0tTMnUnFuD-E0uFy-14" value="RDB文件" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="4ZCc0tTMnUnFuD-E0uFy-14" value="RDB文件" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="670" y="610" width="60" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="4ZCc0tTMnUnFuD-E0uFy-24" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="4ZCc0tTMnUnFuD-E0uFy-1">
+        <mxCell id="4ZCc0tTMnUnFuD-E0uFy-24" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" target="4ZCc0tTMnUnFuD-E0uFy-1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="700" y="110" as="sourcePoint" />
             <mxPoint x="670" y="170" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="4ZCc0tTMnUnFuD-E0uFy-26" value="2.主进程继续处理客户端请求" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="4ZCc0tTMnUnFuD-E0uFy-24">
+        <mxCell id="4ZCc0tTMnUnFuD-E0uFy-26" value="2.主进程继续处理客户端请求" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="4ZCc0tTMnUnFuD-E0uFy-24" vertex="1" connectable="0">
           <mxGeometry x="0.0316" y="-3" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="4ZCc0tTMnUnFuD-E0uFy-31" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;" vertex="1" parent="1">
+        <mxCell id="4ZCc0tTMnUnFuD-E0uFy-31" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;" parent="1" vertex="1">
           <mxGeometry x="70" y="250" width="50" height="190" as="geometry" />
         </mxCell>
-        <mxCell id="4ZCc0tTMnUnFuD-E0uFy-32" value="COW机制" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="4ZCc0tTMnUnFuD-E0uFy-32" value="COW机制" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="40" y="280" width="30" height="130" as="geometry" />
         </mxCell>
       </root>
