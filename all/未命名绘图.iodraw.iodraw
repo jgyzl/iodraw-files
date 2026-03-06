@@ -7,7 +7,7 @@
         <mxCell id="4ZCc0tTMnUnFuD-E0uFy-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4ZCc0tTMnUnFuD-E0uFy-1" target="4ZCc0tTMnUnFuD-E0uFy-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="4ZCc0tTMnUnFuD-E0uFy-4" value="1.fork子进程备份" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="4ZCc0tTMnUnFuD-E0uFy-3">
+        <mxCell id="4ZCc0tTMnUnFuD-E0uFy-4" value="1.fork子进程备份，&lt;div&gt;不会阻塞主进程&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="4ZCc0tTMnUnFuD-E0uFy-3">
           <mxGeometry relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
