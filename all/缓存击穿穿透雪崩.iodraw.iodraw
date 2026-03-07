@@ -26,9 +26,13 @@
         <mxCell id="uF9dGaiv7IJ-O-DQxMBo-2" value="某宝" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="230" y="240" width="60" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="uF9dGaiv7IJ-O-DQxMBo-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="uF9dGaiv7IJ-O-DQxMBo-5">
+        <mxCell id="uF9dGaiv7IJ-O-DQxMBo-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="uF9dGaiv7IJ-O-DQxMBo-5" target="uF9dGaiv7IJ-O-DQxMBo-2">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="443.5" y="190" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="444" y="180" />
+              <mxPoint x="260" y="180" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="uF9dGaiv7IJ-O-DQxMBo-5" value="Redis" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
