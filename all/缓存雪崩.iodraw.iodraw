@@ -31,7 +31,7 @@
             <mxPoint x="443.5" y="410" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="uF9dGaiv7IJ-O-DQxMBo-20" value="Redis的所有key在同一时间&lt;div&gt;段集体失效，大量请求被发送&lt;/div&gt;&lt;div&gt;到数据库&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="uF9dGaiv7IJ-O-DQxMBo-19" vertex="1" connectable="0">
+        <mxCell id="uF9dGaiv7IJ-O-DQxMBo-20" value="Redis没有缓存该数据，&lt;div&gt;去数据库中查询&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="uF9dGaiv7IJ-O-DQxMBo-19" vertex="1" connectable="0">
           <mxGeometry x="-0.1131" y="-2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
