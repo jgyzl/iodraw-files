@@ -40,6 +40,9 @@
         <mxCell id="uF9dGaiv7IJ-O-DQxMBo-21" value="MySQL" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="600" y="240" width="60" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="H4xNA4qGxM6EonMUMhmo-3" value="Redis" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="423.5" y="250" width="60" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
