@@ -43,10 +43,10 @@
         <mxCell id="H4xNA4qGxM6EonMUMhmo-3" value="Bloom Filter" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="414" y="440" width="60" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="H4xNA4qGxM6EonMUMhmo-5" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.128;entryY=0.061;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="H4xNA4qGxM6EonMUMhmo-3">
+        <mxCell id="H4xNA4qGxM6EonMUMhmo-5" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="420" y="300" as="sourcePoint" />
-            <mxPoint x="520" y="300" as="targetPoint" />
+            <mxPoint x="420" y="440" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="H4xNA4qGxM6EonMUMhmo-6" value="Label" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="H4xNA4qGxM6EonMUMhmo-5">
