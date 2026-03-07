@@ -67,7 +67,7 @@
             <mxPoint x="443" y="580" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="H4xNA4qGxM6EonMUMhmo-15" value="2.判断“包含”，直接读取存储在Redis缓存中的数据" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="H4xNA4qGxM6EonMUMhmo-15" value="2.判断“不包含”则数据不存在，拦截无效请求" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="450" y="510" width="114" height="50" as="geometry" />
         </mxCell>
       </root>
