@@ -31,16 +31,11 @@
             <mxPoint x="443.5" y="410" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="uF9dGaiv7IJ-O-DQxMBo-20" value="Redis没有缓存该数据，&lt;div&gt;去数据库中查询&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="uF9dGaiv7IJ-O-DQxMBo-19" vertex="1" connectable="0">
-          <mxGeometry x="-0.1131" y="-2" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="uF9dGaiv7IJ-O-DQxMBo-5" value="Redis" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="413.5" y="240" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="uF9dGaiv7IJ-O-DQxMBo-21" value="MySQL" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="480" y="440" width="60" height="60" as="geometry" />
+          <mxGeometry x="580" y="240" width="60" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
