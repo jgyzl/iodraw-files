@@ -26,16 +26,14 @@
         <mxCell id="uF9dGaiv7IJ-O-DQxMBo-2" value="某宝" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="230" y="240" width="60" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="uF9dGaiv7IJ-O-DQxMBo-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="uF9dGaiv7IJ-O-DQxMBo-5" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="443.5" y="410" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="H4xNA4qGxM6EonMUMhmo-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="uF9dGaiv7IJ-O-DQxMBo-5" target="uF9dGaiv7IJ-O-DQxMBo-21">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="uF9dGaiv7IJ-O-DQxMBo-5" value="Redis" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="413.5" y="240" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="uF9dGaiv7IJ-O-DQxMBo-21" value="MySQL" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="580" y="240" width="60" height="60" as="geometry" />
+          <mxGeometry x="600" y="240" width="60" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
