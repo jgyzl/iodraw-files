@@ -58,7 +58,7 @@
         <mxCell id="H4xNA4qGxM6EonMUMhmo-11" value="1.布隆过滤器，先判断是否存在编号商品" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="300" y="350" width="114" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="H4xNA4qGxM6EonMUMhmo-13" value="1.布隆过滤器，先判断是否存在编号商品" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="H4xNA4qGxM6EonMUMhmo-13" value="2.判断“包含”，直接读取存储在Redis缓存中的数据" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="473.5" y="350" width="114" height="30" as="geometry" />
         </mxCell>
       </root>
