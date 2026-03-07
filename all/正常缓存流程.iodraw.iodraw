@@ -7,11 +7,6 @@
         <mxCell id="uF9dGaiv7IJ-O-DQxMBo-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="uF9dGaiv7IJ-O-DQxMBo-1" target="uF9dGaiv7IJ-O-DQxMBo-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="uF9dGaiv7IJ-O-DQxMBo-4" value="访问" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="uF9dGaiv7IJ-O-DQxMBo-3" vertex="1" connectable="0">
-          <mxGeometry x="0.0611" y="1" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="uF9dGaiv7IJ-O-DQxMBo-1" value="用户" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="50" y="240" width="60" height="60" as="geometry" />
         </mxCell>
@@ -92,7 +87,7 @@
         <mxCell id="rMgbfHtZaU4seSyXDuNC-8" value="用户" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="50" y="320" width="60" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="rMgbfHtZaU4seSyXDuNC-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+        <mxCell id="rMgbfHtZaU4seSyXDuNC-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="uF9dGaiv7IJ-O-DQxMBo-2">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="170" y="280" as="targetPoint" />
             <mxPoint x="109.5" y="190" as="sourcePoint" />
