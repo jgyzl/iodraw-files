@@ -29,8 +29,8 @@
         <mxCell id="uF9dGaiv7IJ-O-DQxMBo-5" value="Redis" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="413.5" y="240" width="60" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="uF9dGaiv7IJ-O-DQxMBo-14" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.uTurnArrow;dy=11;arrowHead=43;dx2=0;" vertex="1" parent="1">
-          <mxGeometry x="350" y="140" width="100" height="100" as="geometry" />
+        <mxCell id="uF9dGaiv7IJ-O-DQxMBo-15" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.bendArrow;dy=15;dx=38;notch=0;arrowHead=55;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="430" y="140" width="100" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
