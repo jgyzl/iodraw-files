@@ -45,8 +45,16 @@
             <mxPoint x="443.5" y="410" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="uF9dGaiv7IJ-O-DQxMBo-20" value="如果Redis没有该数据缓存，&lt;div&gt;则去数据库中查询&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="uF9dGaiv7IJ-O-DQxMBo-19">
+          <mxGeometry x="-0.1131" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="uF9dGaiv7IJ-O-DQxMBo-5" value="Redis" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="413.5" y="240" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="uF9dGaiv7IJ-O-DQxMBo-21" value="某宝" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="260" width="60" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
