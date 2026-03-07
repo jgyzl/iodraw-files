@@ -31,8 +31,8 @@
         </mxCell>
         <mxCell id="uF9dGaiv7IJ-O-DQxMBo-9" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="360" y="380" as="sourcePoint" />
-            <mxPoint x="460" y="380" as="targetPoint" />
+            <mxPoint x="510" y="220" as="sourcePoint" />
+            <mxPoint x="610" y="220" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="uF9dGaiv7IJ-O-DQxMBo-10" value="Label" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="uF9dGaiv7IJ-O-DQxMBo-9">
