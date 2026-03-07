@@ -62,8 +62,8 @@
             <mxPoint x="489" y="485" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="tTo0x9ftt6bm9hrfNvP6-1" value="&lt;font color=&quot;#ff0000&quot;&gt;数据库未查询到数据，&lt;/font&gt;&lt;div&gt;&lt;font color=&quot;#ff0000&quot;&gt;返回空&lt;/font&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="120" y="360" as="geometry">
+        <mxCell id="tTo0x9ftt6bm9hrfNvP6-1" value="&lt;font color=&quot;#ff0000&quot;&gt;缓存穿透一般常见于黑客攻击，&lt;/font&gt;&lt;div&gt;&lt;font color=&quot;#ff0000&quot;&gt;比如请求id=-1的数据，这种数据&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#ff0000&quot;&gt;直接穿透缓存，打在数据库上&lt;/font&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="140" y="390" as="geometry">
             <mxPoint x="-8" y="-12" as="offset" />
           </mxGeometry>
         </mxCell>
