@@ -26,10 +26,10 @@
         <mxCell id="uF9dGaiv7IJ-O-DQxMBo-2" value="某宝" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="230" y="240" width="60" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="H4xNA4qGxM6EonMUMhmo-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="uF9dGaiv7IJ-O-DQxMBo-5" target="uF9dGaiv7IJ-O-DQxMBo-21">
+        <mxCell id="H4xNA4qGxM6EonMUMhmo-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="uF9dGaiv7IJ-O-DQxMBo-5" target="uF9dGaiv7IJ-O-DQxMBo-21" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="H4xNA4qGxM6EonMUMhmo-2" value="访问" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="H4xNA4qGxM6EonMUMhmo-1">
+        <mxCell id="H4xNA4qGxM6EonMUMhmo-2" value="访问" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="H4xNA4qGxM6EonMUMhmo-1" vertex="1" connectable="0">
           <mxGeometry x="-0.0804" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -40,34 +40,34 @@
         <mxCell id="uF9dGaiv7IJ-O-DQxMBo-21" value="MySQL" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="600" y="240" width="60" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="H4xNA4qGxM6EonMUMhmo-3" value="Bloom Filter" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="H4xNA4qGxM6EonMUMhmo-3" value="Bloom Filter" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="414" y="440" width="60" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="H4xNA4qGxM6EonMUMhmo-5" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="H4xNA4qGxM6EonMUMhmo-5" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="420" y="300" as="sourcePoint" />
             <mxPoint x="420" y="440" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="H4xNA4qGxM6EonMUMhmo-7" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="H4xNA4qGxM6EonMUMhmo-7" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="460" y="440" as="sourcePoint" />
             <mxPoint x="460" y="300" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="H4xNA4qGxM6EonMUMhmo-11" value="1.布隆过滤器，先判断是否存在编号商品" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="H4xNA4qGxM6EonMUMhmo-11" value="1.布隆过滤器，先判断是否存在编号商品" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="300" y="350" width="114" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="H4xNA4qGxM6EonMUMhmo-13" value="2.判断“包含”，直接读取存储在Redis缓存中的数据" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="H4xNA4qGxM6EonMUMhmo-13" value="2.判断“包含”，直接读取存储在Redis缓存中的数据" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="473.5" y="350" width="114" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="H4xNA4qGxM6EonMUMhmo-14" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="H4xNA4qGxM6EonMUMhmo-14" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="443" y="500" as="sourcePoint" />
             <mxPoint x="443" y="580" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="H4xNA4qGxM6EonMUMhmo-15" value="2.判断“不包含”则数据不存在，拦截无效请求" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="H4xNA4qGxM6EonMUMhmo-15" value="2.判断“不包含”则数据不存在，拦截无效请求" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="450" y="510" width="114" height="50" as="geometry" />
         </mxCell>
       </root>
