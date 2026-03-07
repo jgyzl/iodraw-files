@@ -37,7 +37,7 @@
         </mxCell>
         <mxCell id="uF9dGaiv7IJ-O-DQxMBo-18" value="如果Redis有该数据缓存，&lt;div&gt;则直接返回&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="uF9dGaiv7IJ-O-DQxMBo-17" vertex="1" connectable="0">
           <mxGeometry x="0.0269" y="-1" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="23" y="-49" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="uF9dGaiv7IJ-O-DQxMBo-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="uF9dGaiv7IJ-O-DQxMBo-5" edge="1">
