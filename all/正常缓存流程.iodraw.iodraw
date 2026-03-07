@@ -26,21 +26,12 @@
         <mxCell id="uF9dGaiv7IJ-O-DQxMBo-2" value="某宝" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="230" y="240" width="60" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="uF9dGaiv7IJ-O-DQxMBo-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="uF9dGaiv7IJ-O-DQxMBo-5" target="uF9dGaiv7IJ-O-DQxMBo-2" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="443.5" y="190" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="444" y="180" />
-              <mxPoint x="260" y="180" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="uF9dGaiv7IJ-O-DQxMBo-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="uF9dGaiv7IJ-O-DQxMBo-5" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="443.5" y="410" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="uF9dGaiv7IJ-O-DQxMBo-20" value="如果Redis没有该数据缓存，&lt;div&gt;则去数据库中查询&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="uF9dGaiv7IJ-O-DQxMBo-19" vertex="1" connectable="0">
+        <mxCell id="uF9dGaiv7IJ-O-DQxMBo-20" value="Redis的所有key在同一时间&lt;div&gt;段集体失效，大量请求被发送&lt;/div&gt;&lt;div&gt;到数据库&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="uF9dGaiv7IJ-O-DQxMBo-19" vertex="1" connectable="0">
           <mxGeometry x="-0.1131" y="-2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -53,20 +44,6 @@
         </mxCell>
         <mxCell id="uF9dGaiv7IJ-O-DQxMBo-23" value="查询到数据返回" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="uF9dGaiv7IJ-O-DQxMBo-22" vertex="1" connectable="0">
           <mxGeometry x="-0.3311" y="-2" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="uF9dGaiv7IJ-O-DQxMBo-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="uF9dGaiv7IJ-O-DQxMBo-21" target="uF9dGaiv7IJ-O-DQxMBo-5" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="590" y="270" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="591" y="440" />
-              <mxPoint x="591" y="270" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="uF9dGaiv7IJ-O-DQxMBo-25" value="将SQL数据&lt;div&gt;同步至Redis&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="uF9dGaiv7IJ-O-DQxMBo-24" vertex="1" connectable="0">
-          <mxGeometry x="0.0054" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
