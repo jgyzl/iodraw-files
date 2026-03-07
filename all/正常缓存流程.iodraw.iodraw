@@ -54,8 +54,8 @@
             <mxPoint x="489" y="485" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="htiMITDWo63tDKADcfBm-3" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="414" y="500" width="60" height="30" as="geometry" />
+        <mxCell id="htiMITDWo63tDKADcfBm-3" value="数据库直接崩溃" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="490" y="425" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
