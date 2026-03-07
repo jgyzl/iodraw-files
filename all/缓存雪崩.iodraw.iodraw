@@ -62,6 +62,9 @@
             <mxPoint x="489" y="485" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="tTo0x9ftt6bm9hrfNvP6-1" value="&lt;font color=&quot;#ff0000&quot;&gt;数据库未查询到数据，&lt;/font&gt;&lt;div&gt;&lt;font color=&quot;#ff0000&quot;&gt;返回空&lt;/font&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="120" y="350" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
