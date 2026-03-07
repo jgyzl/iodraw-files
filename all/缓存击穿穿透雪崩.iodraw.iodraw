@@ -70,7 +70,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="uF9dGaiv7IJ-O-DQxMBo-25" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="uF9dGaiv7IJ-O-DQxMBo-24">
+        <mxCell id="uF9dGaiv7IJ-O-DQxMBo-25" value="将SQL数据&lt;div&gt;同步至Redis&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="uF9dGaiv7IJ-O-DQxMBo-24">
           <mxGeometry x="0.0054" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
